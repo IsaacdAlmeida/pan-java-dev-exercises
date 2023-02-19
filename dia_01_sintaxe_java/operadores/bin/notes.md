@@ -1,5 +1,3 @@
 # Operadores
 
 ## Operadores unários
-
- 
